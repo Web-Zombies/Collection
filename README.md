@@ -1,5 +1,5 @@
 # collection
-## 展示地址
+## 展示地址 Vue3 最新语法
 http://pro.xchao.work
 ## Project setup
 ```
